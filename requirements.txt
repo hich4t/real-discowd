@@ -1,0 +1,8 @@
+aiofiles
+gallery-dl
+pillow
+py-cord
+python-dotenv
+python-ffmpeg
+ffmpeg-asyncio
+yt-dlp
